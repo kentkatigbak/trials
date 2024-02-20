@@ -38,8 +38,8 @@ st.markdown("""
                 .block-container {
                     padding-top: 0rem;
                     padding-bottom: 0rem;
-                    padding-left: 2rem;
-                    padding-right: 2rem;
+                    padding-left: 0.5rem;
+                    padding-right: 0.5rem;
                 }
         </style>
         """, unsafe_allow_html=True)
