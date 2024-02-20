@@ -88,6 +88,14 @@
     text-align: center;
 }
 
+.st-emotion-cache-r421ms {
+    background-color: black;
+    box-shadow: 5px 5px 10px 1px #000000;
+    border: 1px solid rgba(250, 250, 250, 0.2);
+    border-radius: 0.5rem;
+    padding: calc(1em - 1px);
+}
+
 .st-emotion-cache-18bp1h0 {
     background-color: black;
     box-shadow: 5px 5px 10px 1px #000000;
