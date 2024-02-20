@@ -75,7 +75,7 @@ if app_key == "FMEA-SE24":
                     </p>""", unsafe_allow_html=True)
 
     # Read FMEA PDCA Excel File
-    fmea_pdca = pd.read_csv("SystemsEng/fmea/FMEA.csv", encoding="ISO-8859-1")
+    fmea_pdca = pd.read_csv("FMEA.csv", encoding="ISO-8859-1")
 
     # Drop Unnecessary Columns
     fmea_pdca = fmea_pdca[["Car Maker", "Car Model", "Line", "Findings",
@@ -188,7 +188,7 @@ else:
     st.write("You entered an incorrect app key.")
 
         
-with open('SystemsEng/fmea/style.css') as f:
+with open('style.css') as f:
     css = f.read()
 
 st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
