@@ -50,7 +50,7 @@ st.markdown("<p class='app_title'>WELCOME TO FMEA ONLINE!</p>", unsafe_allow_htm
 
 
 # App key --- FMEA-SE24
-app_key = st.text_input("Enter app key to view contents:", type="password")
+app_key = st.text_input("Enter app key to view contents:", type="password", label_visibility="hidden")
 if app_key == "FMEA-SE24":
 
     st.markdown("<p class='schedule_title'>FMEA Checking Schedule:</p>", unsafe_allow_html=True)
@@ -182,7 +182,7 @@ if app_key == "FMEA-SE24":
     st.write("_____________________________________________________________")
 
 elif app_key == "":
-    st.write("You haven't entered the app key.")
+    st.write("Enter app key to view contents.")
 
 else:
     st.write("You entered an incorrect app key.")
