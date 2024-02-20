@@ -7,7 +7,7 @@
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
     color: white;
     overflow: auto;
-    background: white;
+    background: blue;
     animation: gradient 15s ease infinite;
     background-size: 200% 200%;
     background-attachment: fixed;
