@@ -46,13 +46,13 @@ st.markdown("""
 
 # Landing Page
 st.markdown("<p class='app_subtitle'>MANUFACTURING ENGINEERING DEPARTMENT | SYSTEMS ENGINEERING</p>", unsafe_allow_html=True)
-st.markdown("<div class='wrapper'>
+st.markdown("<p class='wrapper'>
 	<svg>
 		<text x="50%" y="50%" dy=".35em" text-anchor="middle">
 			CSS Portal
 		</text>
 	</svg>
-</div>", unsafe_allow_html=True)
+</p>", unsafe_allow_html=True)
 
 
 # App key --- FMEA-SE24
