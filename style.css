@@ -50,7 +50,6 @@
     font-size: 25px;
     color: #6B7A8F;
     background-color: #F7882F;
-    text-shadow: rgb(0, 0, 0) 1px 1px 1px;
 }
 
 .fmea_sched_title {
@@ -61,7 +60,6 @@
     font-size: 20px;
     color: #6B7A8F;
     background-color: #F7882F;
-    text-shadow: rgb(0, 0, 0) 1px 1px 1px;
 }
 
 .fmea_details {
@@ -78,7 +76,6 @@
     font-size: 20px;
     color: #6B7A8F;
     background-color: #F7882F;
-    text-shadow: rgb(0, 0, 0) 1px 1px 1px;
 }
 
 .npra_details {
