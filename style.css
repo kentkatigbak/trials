@@ -66,7 +66,7 @@
 }
 
 .fmea_details {
-    background-color: #F7882F;
+    background-color: #F7C331;
     box-shadow: 5px 5px 10px 1px #000000;
     text-align: center;
 }
@@ -83,13 +83,13 @@
 }
 
 .npra_details {
-    background-color: #F7882F;
+    background-color: #F7C331;
     box-shadow: 5px 5px 10px 1px #000000;
     text-align: center;
 }
 
 .st-emotion-cache-r421ms {
-    background-color: black;
+    background-color: #F7C331;
     color: white;
     box-shadow: 5px 5px 10px 1px #000000;
     border: 1px solid rgba(250, 250, 250, 0.2);
