@@ -46,7 +46,7 @@ st.markdown("""
 
 # Landing Page
 st.markdown("<p class='app_subtitle'>MANUFACTURING ENGINEERING DEPARTMENT | SYSTEMS ENGINEERING</p>", unsafe_allow_html=True)
-st.markdown("<p class='app_title'>FMEA ONLINE!</p>", unsafe_allow_html=True)
+st.markdown("<div class='app_title'><svg><text x="50%" y="50%" dy=".35em" text-anchor="middle">FMEA ONLINE</text></svg></div>", unsafe_allow_html=True)
 
 
 # App key --- FMEA-SE24
